@@ -1,0 +1,7 @@
+This DevOps course typically covers the integration of software development 
+and IT operations to improve collaboration and delivery efficiency.i
+Topics include version control, 
+continuous integration/
+continuous deployment (CI/CD), 
+automation tools, 
+cloud
